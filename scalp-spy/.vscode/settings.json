@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/ec2-user/GammaScalping/.venv/bin/python",
+    "python.languageServer": "Pylance"
+}
